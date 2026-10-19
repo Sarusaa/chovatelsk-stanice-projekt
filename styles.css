@@ -1,0 +1,10 @@
+body {
+    background-color: white;
+    background-image: url(hlavni_obrazek.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-position: center;
+    background-attachment: fixed;
+    min-height: 100vh; 
+    margin: 0;
+}
